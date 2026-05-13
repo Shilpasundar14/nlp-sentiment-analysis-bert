@@ -137,6 +137,6 @@ jupyter notebook NLP_Sentiment_Analysis_BERT.ipynb
 
 ---
 
-## Author
+## Authors
 
-Shilpa Sundar
+Shilpa Sundar · Mags McAllister
